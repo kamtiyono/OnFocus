@@ -1,4 +1,4 @@
-OnFocus is my own custom themes designed for AboutTiyo.web.ID. I use this themes since August 2013 and really love it. That's why I want you to use this theme too.
+OnFocus is my own custom themes designed for AboutTiyo.web.ID basen on <a href="underscores.me">Underscores Theme</a>. I use this themes since August 2013 and really love it. That's why I want you to use this theme too.
 
 <h2>The main customization</h2>
 
