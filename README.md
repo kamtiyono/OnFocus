@@ -2,7 +2,7 @@ OnFocus is my own custom themes designed for AboutTiyo.web.ID basen on Underscor
 
 <h2>The main customization</h2>
 
-The main customization is on themes.css
+The main customization is on themes.css. I put some CSS customization over there and Media Query that I copy from Less Framework by Joni Korpi
 
 <h2>Additional Pages</h2>
 I also create a sitemaps HTML template based on Yoast tutorial
