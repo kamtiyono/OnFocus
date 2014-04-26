@@ -9,4 +9,4 @@ I also create a sitemaps HTML template based on Yoast tutorial
 
 <h2>See it in action</h2>
 
-If you want to see it in action, don't forget to see my live blog. Last update from AT is <a href="http://abouttiyo.web.id/gadget/asus-notebook-terbaik-dan-favoritku/">ASUS Notebook Terbaik dan Favoritku </a>
+If you want to see it in action, don't forget to see my live blog.
