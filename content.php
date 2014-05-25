@@ -11,7 +11,7 @@
 
 		<?php if ( 'post' == get_post_type() ) : ?>
 		<div class="entry-meta">
-			<?php OnFocus_posted_on(); ?> <span>dilihat <strong><?php echo get_post_meta( $post->ID, 'jetpack-post-views', true ); ?></strong> kali</span>
+			<?php OnFocus_posted_on(); ?>
 		<?php endif; ?>
 
 		<?php if ( ! post_password_required() && ( comments_open() || '0' != get_comments_number() ) ) : ?>
