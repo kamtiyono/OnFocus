@@ -10,7 +10,7 @@
 		<h1 class="entry-title"><?php the_title(); ?></h1>
 
 		<div class="entry-meta">
-			<?php OnFocus_posted_on(); ?> <span>dilihat <strong><?php echo get_post_meta( $post->ID, 'jetpack-post-views', true ); ?></strong> kali</span>
+			<?php OnFocus_posted_on(); ?>
 		</div><!-- .entry-meta -->
 	</header><!-- .entry-header -->
 
